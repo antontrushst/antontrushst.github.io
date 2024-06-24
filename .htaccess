@@ -1,4 +1,0 @@
-AuthType Basic
-AuthName "DO NOT ENTER MY SARAIY!"
-AuthUserFile ./.htpasswd
-require valid-user
